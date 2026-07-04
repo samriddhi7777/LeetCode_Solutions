@@ -1,6 +1,6 @@
 # 📝 Longest Consecutive Sequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-consecutive-sequence/)
+🔗 [Problem Link](https://leetcode.com/problems/longest-consecutive-sequence)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Union-Find
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
