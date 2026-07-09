@@ -1,6 +1,6 @@
 # 📝 Classes With at Least 5 Students (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/classes-with-at-least-5-students/)
+🔗 [Problem Link](https://leetcode.com/problems/classes-with-at-least-5-students)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 
@@ -8,7 +8,7 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
