@@ -1,6 +1,6 @@
 # 📝 Daily Temperatures (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/daily-temperatures/)
+🔗 [Problem Link](https://leetcode.com/problems/daily-temperatures)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Stack, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
