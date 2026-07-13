@@ -1,6 +1,6 @@
 # 📝 Largest Rectangle in Histogram (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+🔗 [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Stack, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
