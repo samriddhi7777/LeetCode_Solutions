@@ -1,6 +1,6 @@
 # 📝 Search Insert Position (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/search-insert-position)
+🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
