@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/linked-list-cycle/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Hash Table, Linked List, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 46.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
