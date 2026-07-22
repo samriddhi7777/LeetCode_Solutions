@@ -63,7 +63,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
 - [x] [Merge Two Sorted Lists](./C++/Easy/21. Merge Two Sorted Lists/)
 - [ ] Merge k Sorted Lists
-- [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
+- [x] [Remove Nth Node From End of List](./C++/Medium/19. Remove Nth Node From End of List/)
 - [x] [Reorder List](./C++/Medium/143. Reorder List/)
 
 ### 📂 Matrix
