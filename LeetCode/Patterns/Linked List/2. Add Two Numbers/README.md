@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/add-two-numbers/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Linked List, Math, Recursion
 
 ### 🚀 Performance
-- **Runtime:** 1 ms
-- **Memory:** 46.4 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
