@@ -1,6 +1,6 @@
 # 📝 199. Binary Tree Right Side View (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view)
+🔗 [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 15.1 MB
 
 ---
 
