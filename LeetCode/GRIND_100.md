@@ -14,7 +14,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] 3Sum
 - [ ] Container With Most Water
 - [ ] Move Zeroes
-- [x] [Sort Colors](./Java/Medium/75. Sort Colors/)
+- [x] [Sort Colors](./C++/Medium/75. Sort Colors/)
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
 - [ ] Trapping Rain Water
