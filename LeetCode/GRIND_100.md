@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 22 / 100 (22.0%)
+- **Completed:** 23 / 100 (23.0%)
 
 ---
 
@@ -67,7 +67,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [x] [Kth Smallest Element in a BST](./C++/Medium/230. Kth Smallest Element in a BST/)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](./C++/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/)
-- [ ] Binary Tree Maximum Path Sum
+- [x] [Binary Tree Maximum Path Sum](./C++/Hard/124. Binary Tree Maximum Path Sum/)
 - [ ] Path Sum III
 - [ ] Flatten Binary Tree to Linked List
 - [ ] Merge Two Binary Trees

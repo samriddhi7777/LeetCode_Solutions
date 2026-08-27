@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 1 / 76 (1.3%)
+- **Completed:** 2 / 76 (2.6%)
 
 ---
 
@@ -82,7 +82,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [ ] Same Tree
 - [ ] Binary Tree Zigzag Level Order Traversal
-- [ ] Binary Tree Maximum Path Sum
+- [x] [Binary Tree Maximum Path Sum](./C++/Hard/124. Binary Tree Maximum Path Sum/)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](./C++/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/)
 - [ ] Symmetric Tree
 - [ ] Validate Binary Search Tree
