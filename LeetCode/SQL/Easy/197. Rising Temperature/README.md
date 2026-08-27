@@ -1,6 +1,6 @@
 # 📝 197. Rising Temperature (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/rising-temperature/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
