@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/3sum-closest/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 17 ms
-- **Memory:** 45.4 MB
+- **Runtime:** 308 ms
+- **Memory:** 17.9 MB
 
 ---
 
