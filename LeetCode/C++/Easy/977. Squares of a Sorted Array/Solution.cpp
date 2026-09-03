@@ -42,7 +42,7 @@ public:
             i++;
         }
         while(j < pos.size()){
-            result.push_back(pos[i]);
+            result.push_back(pos[j]);
             j++;
         }
         return result;
