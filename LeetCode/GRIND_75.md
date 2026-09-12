@@ -14,7 +14,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
-- [x] [Maximum Subarray](./Java/Medium/53. Maximum Subarray/)
+- [x] [Maximum Subarray](./C++/Medium/53. Maximum Subarray/)
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
