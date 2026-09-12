@@ -1,6 +1,6 @@
 # 📝 142. Linked List Cycle II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii)
+🔗 [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
