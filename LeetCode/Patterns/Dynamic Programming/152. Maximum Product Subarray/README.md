@@ -1,6 +1,6 @@
 # 📝 152. Maximum Product Subarray (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-product-subarray/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
