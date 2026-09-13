@@ -10,8 +10,8 @@ public:
             int v2 = maxEnding * nums[i];
             int v3 = minEnding * nums[i];
 
-            int newMaxEnding = max(v1, max(v2,v3));
-            int newMinEnding = min(v1, min(v2,v3));
+            int newMaxEnding = max(v1,max(v2,v3));
+            int newMinEnding = min(v1,min(v2,v3));
 
             maxEnding = newMaxEnding;
             minEnding = newMinEnding;
@@ -19,5 +19,6 @@ public:
             res = max(res,maxEnding);
         }
         return res;
+        
     }
 };
