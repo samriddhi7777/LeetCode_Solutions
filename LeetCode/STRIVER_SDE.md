@@ -17,7 +17,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Sort Colors](./C++/Medium/75. Sort Colors/)
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Rotate Image
-- [x] [Merge Intervals](./Java/Medium/56. Merge Intervals/)
+- [x] [Merge Intervals](./C++/Medium/56. Merge Intervals/)
 - [x] [Find the Duplicate Number](./C++/Medium/287. Find the Duplicate Number/)
 - [ ] Trapping Rain Water
 
