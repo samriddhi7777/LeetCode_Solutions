@@ -8,18 +8,20 @@
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 15 ms
+- **Memory:** 13.9 MB
 
 ---
 
 ### 📜 Problem Description
 
-Given an integer array  `nums`  of length  `n`  and an integer  `target` , find three integers at  **distinct indices**  in  `nums`  such that the sum is closest to  `target` .
+You are given an integer array  `nums`  of length  `n`  and an integer  `target` .
 
-Return  *the sum of the three integers* .
+Find three integers at  **distinct indices**  in  `nums`  such that the sum is  **closest**  to  `target` .
 
-You may assume that each input would have exactly one solution.
+Return the sum of the three integers.
+
+You may assume that each input would have  **exactly**  one solution.
 
 **Example 1:**
 
