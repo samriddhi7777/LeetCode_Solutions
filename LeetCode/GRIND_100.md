@@ -57,7 +57,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 
 ### 📂 Binary Tree & BST
 - [x] [Invert Binary Tree](./C++/Easy/226. Invert Binary Tree/)
-- [x] [Symmetric Tree](./Java/Easy/101. Symmetric Tree/)
+- [x] [Symmetric Tree](./C++/Easy/101. Symmetric Tree/)
 - [x] [Maximum Depth of Binary Tree](./C++/Easy/104. Maximum Depth of Binary Tree/)
 - [x] [Diameter of Binary Tree](./C++/Easy/543. Diameter of Binary Tree/)
 - [x] [Binary Tree Inorder Traversal](./C++/Easy/94. Binary Tree Inorder Traversal/)
