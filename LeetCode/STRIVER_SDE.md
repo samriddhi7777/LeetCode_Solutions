@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 19 / 76 (25.0%)
+- **Completed:** 20 / 76 (26.3%)
 
 ---
 
@@ -81,7 +81,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Balanced Binary Tree](./C++/Easy/110. Balanced Binary Tree/)
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [x] [Same Tree](./C++/Easy/100. Same Tree/)
-- [ ] Binary Tree Zigzag Level Order Traversal
+- [x] [Binary Tree Zigzag Level Order Traversal](./C++/Medium/103. Binary Tree Zigzag Level Order Traversal/)
 - [x] [Binary Tree Maximum Path Sum](./C++/Hard/124. Binary Tree Maximum Path Sum/)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](./C++/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/)
 - [ ] Symmetric Tree
