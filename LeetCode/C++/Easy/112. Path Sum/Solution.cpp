@@ -1,16 +1,26 @@
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root == NULL)
+    bool fun(TreeNode* root, int sum, int target) {
+        
+        if (root == NULL)
             return false;
 
-        // Leaf node
-        if(root->left == NULL && root->right == NULL)
-            return targetSum == root->val;
+        sum += root->val;
 
-        targetSum -= root->val;
+        // If current node is a leaf
+        if (root->left == NULL && root->right == NULL) {
+            if (sum == target)
+                return true;
 
-        return hasPathSum(root->left, targetSum) ||
-               hasPathSum(root->right, targetSum);
+            return false;
+        }
+
+        // Check left and right subtree
+        return fun(root->left, sum, target) ||
+               fun(root->right, sum, target);
+    }
+
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        return fun(root, 0, targetSum);
     }
 };
