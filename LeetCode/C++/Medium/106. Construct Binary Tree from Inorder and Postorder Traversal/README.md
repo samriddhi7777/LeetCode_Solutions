@@ -1,6 +1,6 @@
 # 📝 106. Construct Binary Tree from Inorder and Postorder Traversal (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
+🔗 [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
