@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 22 / 76 (28.9%)
+- **Completed:** 23 / 76 (30.3%)
 
 ---
 
@@ -85,7 +85,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Binary Tree Maximum Path Sum](./C++/Hard/124. Binary Tree Maximum Path Sum/)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](./C++/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/)
 - [x] [Symmetric Tree](./C++/Easy/101. Symmetric Tree/)
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](./C++/Medium/98. Validate Binary Search Tree/)
 - [x] [Lowest Common Ancestor of a Binary Search Tree](./C++/Medium/235. Lowest Common Ancestor of a Binary Search Tree/)
 - [ ] Kth Smallest Element in a BST
 - [ ] Serialize and Deserialize Binary Tree
