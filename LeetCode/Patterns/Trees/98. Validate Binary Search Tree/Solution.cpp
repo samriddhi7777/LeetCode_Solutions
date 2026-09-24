@@ -15,24 +15,19 @@ public:
     bool ans = true;
 
     void inorder(TreeNode* root){
-        if(root == nullptr){
-           return;
-        }
-
+        if(root == nullptr)
+          return;
         inorder(root->left);
         if(prev != nullptr && prev->val >= root->val){
             ans = false;
             return;
         }
         prev = root;
-
         inorder(root->right);
-
     }
     bool isValidBST(TreeNode* root) {
         inorder(root);
         return ans;
-
         
     }
 };
