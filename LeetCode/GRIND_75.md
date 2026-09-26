@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 31 / 75 (41.3%)
+- **Completed:** 32 / 75 (42.7%)
 
 ---
 
@@ -79,7 +79,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Valid Anagram](./C++/Easy/242. Valid Anagram/)
 - [x] [Group Anagrams](./C++/Medium/49. Group Anagrams/)
 - [ ] Valid Parentheses
-- [ ] Valid Palindrome
+- [x] [Valid Palindrome](./C++/Easy/125. Valid Palindrome/)
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings
