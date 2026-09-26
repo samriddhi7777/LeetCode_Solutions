@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 7 / 238 (2.9%)
+- **Completed:** 8 / 238 (3.4%)
 
 ---
 
@@ -230,7 +230,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Number of Strings That Appear as Substrings in Word
 
 ### 📂 PHASE  4  –  HASHING  /  ADVANCED  STRIN
-- [ ] Valid Anagram
+- [x] [Valid Anagram](./C++/Easy/242. Valid Anagram/)
 - [ ] Group Anagrams
 - [ ] First Unique Character
 - [ ] Longest Palindrome
