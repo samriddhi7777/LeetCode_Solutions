@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 31 / 150 (20.7%)
+- **Completed:** 32 / 150 (21.3%)
 
 ---
 
@@ -18,7 +18,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Product of Array Except Self](./C++/Medium/238. Product of Array Except Self/)
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
-- [ ] Longest Consecutive Sequence
+- [x] [Longest Consecutive Sequence](./C++/Medium/128. Longest Consecutive Sequence/)
 
 ### 📂 Two Pointers
 - [ ] Valid Palindrome
