@@ -28,7 +28,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Trapping Rain Water
 
 ### 📂 Sliding Window
-- [x] [Best Time to Buy and Sell Stock](./Java/Easy/121. Best Time to Buy and Sell Stock/)
+- [x] [Best Time to Buy and Sell Stock](./C++/Easy/121. Best Time to Buy and Sell Stock/)
 - [x] [Longest Substring Without Repeating Characters](./C++/Medium/3. Longest Substring Without Repeating Characters/)
 - [x] [Longest Repeating Character Replacement](./C++/Medium/424. Longest Repeating Character Replacement/)
 - [ ] Permutation in String
