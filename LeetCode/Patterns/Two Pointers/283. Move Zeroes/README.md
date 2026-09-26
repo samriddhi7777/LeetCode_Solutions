@@ -1,6 +1,6 @@
 # 📝 283. Move Zeroes (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/move-zeroes/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/move-zeroes/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 19 ms
+- **Memory:** 23.9 MB
 
 ---
 
