@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 30 / 150 (20.0%)
+- **Completed:** 31 / 150 (20.7%)
 
 ---
 
@@ -13,7 +13,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Contains Duplicate](./C++/Easy/217. Contains Duplicate/)
 - [x] [Valid Anagram](./C++/Easy/242. Valid Anagram/)
 - [x] [Two Sum](./C++/Easy/1. Two Sum/)
-- [ ] Group Anagrams
+- [x] [Group Anagrams](./C++/Medium/49. Group Anagrams/)
 - [ ] Top K Frequent Elements
 - [x] [Product of Array Except Self](./C++/Medium/238. Product of Array Except Self/)
 - [ ] Valid Sudoku

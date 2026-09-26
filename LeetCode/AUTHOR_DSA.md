@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 238 (3.4%)
+- **Completed:** 9 / 238 (3.8%)
 
 ---
 
@@ -231,7 +231,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ### 📂 PHASE  4  –  HASHING  /  ADVANCED  STRIN
 - [x] [Valid Anagram](./C++/Easy/242. Valid Anagram/)
-- [ ] Group Anagrams
+- [x] [Group Anagrams](./C++/Medium/49. Group Anagrams/)
 - [ ] First Unique Character
 - [ ] Longest Palindrome
 - [ ] Sort Characters by Frequency
