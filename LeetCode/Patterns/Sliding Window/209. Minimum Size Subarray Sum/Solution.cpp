@@ -4,19 +4,19 @@ public:
         int n = nums.size();
         int left = 0;
         int sum = 0;
-        int minlen = INT_MAX;
-
-
+        int minLength = INT_MAX;
         for(int right = 0; right < n; right++){
             sum += nums[right];
-        
-        while(sum >= target){
-            minlen = min(minlen, right-left + 1);
-            sum -= nums[left];
-            left++;
+            while(sum >= target){
+                int length = right - left + 1;
+                minLength = min(minLength,length);
+                sum -= nums[left];
+                left++;
+            }
         }
+        if(minLength == INT_MAX){
+          return 0;
         }
-        return(minlen == INT_MAX) ? 0 : minlen;
-        
+        return minLength;
     }
 };
