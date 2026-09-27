@@ -1,6 +1,6 @@
 # 📝 303. Range Sum Query - Immutable (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/range-sum-query-immutable)
+🔗 [Problem Link](https://leetcode.com/problems/range-sum-query-immutable/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Design, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 23.9 MB
 
 ---
 
