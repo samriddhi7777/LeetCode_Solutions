@@ -1,6 +1,6 @@
 # 📝 525. Contiguous Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contiguous-array)
+🔗 [Problem Link](https://leetcode.com/problems/contiguous-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 23 ms
+- **Memory:** 88.2 MB
 
 ---
 
