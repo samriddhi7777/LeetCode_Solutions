@@ -1,6 +1,6 @@
 # 📝 278. First Bad Version (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/first-bad-version)
+🔗 [Problem Link](https://leetcode.com/problems/first-bad-version/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Binary Search, Interactive
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 8 MB
 
 ---
 
