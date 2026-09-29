@@ -81,7 +81,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Search a 2D Matrix
 - [ ] Search a 2D Matrix II
 - [x] [Search in Rotated Sorted Array](./C++/Medium/33. Search in Rotated Sorted Array/)
-- [x] [Find First and Last Position of Element in Sorted Array](./C++/Medium/34. Find First and Last Position of Element in Sorted Array/)
+- [x] [Find First and Last Position of Element in Sorted Array](./Java/Medium/34. Find First and Last Position of Element in Sorted Array/)
 
 ### 📂 Graph & Trie
 - [x] [Number of Islands](./C++/Medium/200. Number of Islands/)
