@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 21 / 238 (8.8%)
+- **Completed:** 22 / 238 (9.2%)
 
 ---
 
@@ -108,7 +108,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Search Insert Position](./C++/Easy/35. Search Insert Position/)
 - [x] [Search in Rotated Sorted Array](./C++/Medium/33. Search in Rotated Sorted Array/)
 - [ ] Find First and Last Position of Element in Sorted Array
-- [ ] Find Peak Element
+- [x] [Find Peak Element](./C++/Medium/162. Find Peak Element/)
 - [ ] Maximum Gap
 
 ### 📂 MODULE  3.7: SUBARRAY & PREFIX INTUITION
