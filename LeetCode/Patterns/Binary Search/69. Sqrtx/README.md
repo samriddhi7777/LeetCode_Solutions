@@ -8,8 +8,8 @@
 Math, Binary Search, Newton's Method
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 8.5 MB
+- **Runtime:** 3 ms
+- **Memory:** 8.6 MB
 
 ---
 
