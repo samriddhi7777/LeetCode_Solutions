@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 24 / 238 (10.1%)
+- **Completed:** 25 / 238 (10.5%)
 
 ---
 
@@ -273,7 +273,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Number of Islands
 
 ### 📂 PART  1: LINKED LISTS Topics Covered: 1.
-- [ ] Middle of the Linked List
+- [x] [Middle of the Linked List](./C++/Easy/908. Middle of the Linked List/)
 - [x] [Reverse Linked List](./C++/Easy/206. Reverse Linked List/)
 - [ ] Linked List Cycle
 - [ ] Linked List Cycle II
