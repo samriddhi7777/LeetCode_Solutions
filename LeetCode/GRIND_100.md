@@ -48,7 +48,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Linked List Cycle II](./C++/Medium/142. Linked List Cycle II/)
 - [x] [Merge Two Sorted Lists](./C++/Easy/21. Merge Two Sorted Lists/)
 - [x] [Remove Nth Node From End of List](./C++/Medium/19. Remove Nth Node From End of List/)
-- [x] [Intersection of Two Linked Lists](./Java/Easy/160. Intersection of Two Linked Lists/)
+- [x] [Intersection of Two Linked Lists](./C++/Easy/160. Intersection of Two Linked Lists/)
 - [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
 - [x] [Copy List with Random Pointer](./C++/Medium/138. Copy List with Random Pointer/)
 - [x] [LRU Cache](./C++/Medium/146. LRU Cache/)

@@ -43,7 +43,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 ### 📂 Module  1.5: Cycle, Intersection & Struc
 - [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
 - [ ] Linked List Cycle II
-- [x] [Intersection of Two Linked Lists](./Java/Easy/160. Intersection of Two Linked Lists/)
+- [x] [Intersection of Two Linked Lists](./C++/Easy/160. Intersection of Two Linked Lists/)
 
 ### 📂 Module  1.6: Sorting, Conversion & Advan
 - [ ] Sort List
