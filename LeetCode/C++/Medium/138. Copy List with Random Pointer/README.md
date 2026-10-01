@@ -8,8 +8,8 @@
 Hash Table, Linked List
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 14.9 MB
 
 ---
 
