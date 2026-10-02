@@ -1,6 +1,6 @@
 # 📝 496. Next Greater Element I (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-i)
+🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-i/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
