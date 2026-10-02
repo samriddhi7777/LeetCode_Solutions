@@ -15,11 +15,10 @@ public:
         ListNode* curr = dummy;
 
         while(list1 != NULL && list2 != NULL){
-            if(list1->val <= list2->val){
+            if(list1->val < list2->val){
                 curr->next = list1;
                 list1 = list1->next;
-            }
-            else{
+            }else{
                 curr->next = list2;
                 list2 = list2->next;
             }
@@ -27,8 +26,9 @@ public:
         }
         if(list1 != NULL){
             curr->next = list1;
+
         }
-        else{
+        if(list2 != NULL){
             curr->next = list2;
         }
         return dummy->next;
