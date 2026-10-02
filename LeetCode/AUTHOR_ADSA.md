@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 14 / 65 (21.5%)
+- **Completed:** 15 / 65 (23.1%)
 
 ---
 
@@ -97,7 +97,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Daily Temperatures](./C++/Medium/739. Daily Temperatures/)
 - [ ] Final Prices With a Special Discount in a Shop
 - [ ] 132 Pattern
-- [ ] Largest Rectangle in Histogram
+- [x] [Largest Rectangle in Histogram](./C++/Hard/84. Largest Rectangle in Histogram/)
 - [ ] Trapping Rain Water
 
 ### 📂 Module  2.6: Stack Design & History Simu
