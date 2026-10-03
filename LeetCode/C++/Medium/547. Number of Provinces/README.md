@@ -1,6 +1,6 @@
 # 📝 547. Number of Provinces (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/number-of-provinces)
+🔗 [Problem Link](https://leetcode.com/problems/number-of-provinces/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
