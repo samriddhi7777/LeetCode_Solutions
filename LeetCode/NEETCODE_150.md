@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 58 / 150 (38.7%)
+- **Completed:** 59 / 150 (39.3%)
 
 ---
 
@@ -91,7 +91,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Heap / Priority Queue
 - [ ] Kth Largest Element in a Stream
 - [ ] Last Stone Weight
-- [ ] K Closest Points to Origin
+- [x] [K Closest Points to Origin](./C++/Medium/973. K Closest Points to Origin/)
 - [x] [Kth Largest Element in an Array](./C++/Medium/215. Kth Largest Element in an Array/)
 - [ ] Task Scheduler
 - [ ] Design Twitter
