@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 59 / 150 (39.3%)
+- **Completed:** 60 / 150 (40.0%)
 
 ---
 
@@ -93,7 +93,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Last Stone Weight
 - [x] [K Closest Points to Origin](./C++/Medium/1014. K Closest Points to Origin/)
 - [x] [Kth Largest Element in an Array](./C++/Medium/215. Kth Largest Element in an Array/)
-- [ ] Task Scheduler
+- [x] [Task Scheduler](./C++/Medium/621. Task Scheduler/)
 - [ ] Design Twitter
 - [ ] Find Median from Data Stream
 
