@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 37 / 238 (15.5%)
+- **Completed:** 38 / 238 (16.0%)
 
 ---
 
@@ -129,7 +129,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  3.9: ADVANCED ARRAY QUESTIONS Co
 - [x] [Container With Most Water](./C++/Medium/11. Container With Most Water/)
 - [x] [3Sum](./C++/Medium/15. 3Sum/)
-- [ ] Kth Largest Element in an Array
+- [x] [Kth Largest Element in an Array](./C++/Medium/215. Kth Largest Element in an Array/)
 - [ ] Find the Duplicate Number
 - [x] [Next Greater Element I](./C++/Easy/496. Next Greater Element I/)
 - [ ] Three Elements to Maximize Expression
