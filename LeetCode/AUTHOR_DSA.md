@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 40 / 238 (16.8%)
+- **Completed:** 41 / 238 (17.2%)
 
 ---
 
@@ -124,7 +124,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Lemonade Change](./C++/Easy/860. Lemonade Change/)
 - [ ] Time Needed to Buy Tickets
 - [ ] Boats to Save People
-- [ ] Gas Station
+- [x] [Gas Station](./C++/Medium/134. Gas Station/)
 
 ### 📂 MODULE  3.9: ADVANCED ARRAY QUESTIONS Co
 - [x] [Container With Most Water](./C++/Medium/11. Container With Most Water/)
