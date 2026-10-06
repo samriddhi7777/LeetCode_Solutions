@@ -1,6 +1,6 @@
 # 📝 502. IPO (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/ipo)
+🔗 [Problem Link](https://leetcode.com/problems/ipo/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
