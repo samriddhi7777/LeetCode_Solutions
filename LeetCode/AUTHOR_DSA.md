@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 42 / 238 (17.6%)
+- **Completed:** 43 / 238 (18.1%)
 
 ---
 
@@ -73,7 +73,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] GCD of Array
 - [ ] Alternating Groups
 - [ ] Adjacent Maximum Difference
-- [ ] Missing Number
+- [x] [Missing Number](./C++/Easy/268. Missing Number/)
 - [ ] Find Integer Added to Array
 - [ ] Minimum Operations to Make Array Zero
 - [ ] Concatenation of Array
