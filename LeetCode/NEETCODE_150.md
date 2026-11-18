@@ -10,7 +10,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ## Checklist
 
 ### 📂 Arrays & Hashing
-- [x] [Contains Duplicate](./C++/Easy/217. Contains Duplicate/)
+- [x] [Contains Duplicate](./Java/Easy/217. Contains Duplicate/)
 - [x] [Valid Anagram](./C++/Easy/242. Valid Anagram/)
 - [x] [Two Sum](./C++/Easy/1. Two Sum/)
 - [x] [Group Anagrams](./C++/Medium/49. Group Anagrams/)
